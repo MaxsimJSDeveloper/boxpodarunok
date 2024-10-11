@@ -68,3 +68,39 @@
 .submit-button:hover {
   background-color: #0056b3;
 }
+
+.cookie-notice {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #f9f9f9;
+  padding: 15px;
+  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  z-index: 1000;
+  display: none;
+}
+
+.cookie-notice p {
+  margin: 0 0 10px;
+  display: block;
+}
+
+.cookie-notice button {
+  margin: 0 5px;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#accept-cookies {
+  background-color: #4caf50;
+  color: white;
+}
+
+#reject-cookies {
+  background-color: #f44336;
+  color: white;
+}

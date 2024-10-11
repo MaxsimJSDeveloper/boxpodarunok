@@ -19,11 +19,13 @@ require_once './goo.php';
 
 <body>
     <main>
-    <h1>Welcome to our website!</h1>
-<section>
-     <?php include 'components/form.php'; ?>
-     </section>
-</main>
+        <h1>Welcome to our website!</h1>
+        <section>
+            <?php include 'components/form.php'; ?>
+        </section>
+    </main>
+ <?php include 'components/cookie-notice.php'; ?>
+     <script src="../assets/js/cookie-notice.js" defer></script>
 </body>
 
 </html>

@@ -1,16 +1,15 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="Cache-control" content="no-transform" />
-<meta http-equiv="Cache-control" content="no-cache" />
-<meta name="google" content="nopagereadaloud" />
-    <title>Политика конфиденциальности</title>
+    <meta http-equiv="Cache-control" content="no-cache" />
+    <meta name="google" content="nopagereadaloud" />
+    <title>Privacy Policy</title>
 </head>
 <body>
-    <h1>Политика конфиденциальности</h1>
-    <p>Мы ценим вашу конфиденциальность и стремимся защитить ваши личные данные...</p>
-    <!-- Здесь можно разместить текст политики конфиденциальности -->
-    <a href="../index.php">Вернуться на главную</a>
+    <h1>Privacy Policy</h1>
+    <p>We value your privacy and strive to protect your personal data...</p>
+    <a href="../index.php">Return to Home</a>
 </body>
 </html>
