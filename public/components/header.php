@@ -1,5 +1,5 @@
 <header class="header">
-    <div class="container">
+    <div class="header-container">
         <div class="logo">
        <svg width="80" height="80" aria-label="icon-linkedin">
                     <use href="../assets/img/favicon.svg#icon-gift"></use>

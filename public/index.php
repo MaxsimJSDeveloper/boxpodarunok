@@ -16,7 +16,7 @@
 <body>
     <?php include 'components/header.php'?>
     <main>
-        <h1>Welcome to our website!</h1>
+            <?php include 'components/about.php'?>
             <?php include 'components/form.php'?>
     </main>
  <?php include 'components/cookie-notice.php'?>
