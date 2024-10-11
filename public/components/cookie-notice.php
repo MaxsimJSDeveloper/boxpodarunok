@@ -1,5 +1,5 @@
 <div class="cookie-notice" id="cookie-notification" style="display: none;">
-    <p>We use cookies to enhance your experience. <a href="./legal/privacy-policy.php" target="_blank">privacy policy</a></p>
-    <button id="accept-cookies">Accept</button>
-    <button id="reject-cookies">Reject</button>
+    <p class="notice">We use cookies to enhance your experience. <a href="./legal/privacy-policy.php">privacy policy</a></p>
+    <button class="cookie-btn" id="accept-cookies">Accept</button>
+    <button class="cookie-btn" id="reject-cookies">Reject</button>
 </div>

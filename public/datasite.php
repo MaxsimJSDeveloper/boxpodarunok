@@ -1,5 +1,5 @@
 <?php
-$DIR = "assets"; // Путь к директории
-$faviconName = "favicon.svg"; // Имя файла с фавиконом
-$domain = "boxpodarunok.com"; // Название сайта
+$DIR = "assets";
+$faviconName = "favicon.svg"; 
+$domain = "boxpodarunok.com";
 ?>

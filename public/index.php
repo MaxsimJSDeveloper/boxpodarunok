@@ -1,8 +1,3 @@
-<?php
-require_once '../config/gooconf.php';
-require_once './goo.php';
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -12,6 +7,7 @@ require_once './goo.php';
     <meta http-equiv="Cache-control" content="no-transform" />
     <meta http-equiv="Cache-control" content="no-cache" />
     <meta name="google" content="nopagereadaloud" />
+        <link rel="icon" type="image/svg+xml" href="../assets/img/favicon.svg#icon-gift" />
     <link rel="stylesheet" href="../assets/css/reset.css">
     <link rel="stylesheet" href="../assets/css/style.css">
     <title>Event and Party Organization</title>
@@ -20,9 +16,9 @@ require_once './goo.php';
 <body>
     <main>
         <h1>Welcome to our website!</h1>
-        <section>
+        
             <?php include 'components/form.php'; ?>
-        </section>
+
     </main>
  <?php include 'components/cookie-notice.php'; ?>
      <script src="../assets/js/cookie-notice.js" defer></script>

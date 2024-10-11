@@ -1,0 +1,42 @@
+.container {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 20px;
+}
+
+.title {
+  color: #333;
+}
+
+.subtitle {
+  color: #333;
+}
+
+.paragraph {
+  margin-bottom: 10px;
+}
+
+.list {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+
+.list-item {
+  margin-bottom: 5px;
+}
+
+.home-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 250px;
+  height: 50px;
+  margin: 0 auto;
+  border-radius: 20px;
+  background-color: #744040;
+  margin-bottom: 10px;
+}
+
+.privacy-policy-link {
+  color: #ffb8b88a;
+}
