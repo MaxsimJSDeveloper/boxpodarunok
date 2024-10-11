@@ -39,6 +39,7 @@ $description = $succsesObj["desc"];
                 <h1 class="title"><?= $h1 ?></h1>
                 <p class="description"><?= $description ?></p>
             </div>
+			 <a href="index.php">Go to home</a>
         </div>
     </main>
 </body>
