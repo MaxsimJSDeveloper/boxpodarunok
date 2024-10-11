@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ua">
 
 <head>
     <meta charset="UTF-8">
@@ -14,13 +14,12 @@
 </head>
 
 <body>
+    <?php include 'components/header.php'?>
     <main>
         <h1>Welcome to our website!</h1>
-        
-            <?php include 'components/form.php'; ?>
-
+            <?php include 'components/form.php'?>
     </main>
- <?php include 'components/cookie-notice.php'; ?>
+ <?php include 'components/cookie-notice.php'?>
      <script src="../assets/js/cookie-notice.js" defer></script>
 </body>
 
