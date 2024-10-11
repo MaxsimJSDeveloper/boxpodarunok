@@ -2,6 +2,7 @@
 require_once '../config/gooconf.php';
 require_once './goo.php';
 ?>
+
 <!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
@@ -9,6 +10,7 @@ require_once './goo.php';
     <meta http-equiv="Cache-control" content="no-transform" />
 <meta http-equiv="Cache-control" content="no-cache" />
 <meta name="google" content="nopagereadaloud" />
+        <link rel="stylesheet" href="../assets/css/reset.css">
         <link rel="stylesheet" href="../assets/css/style.css">
     <title>Event and Party Organization</title>
 </head>

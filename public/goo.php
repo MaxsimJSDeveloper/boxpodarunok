@@ -25,7 +25,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $message = htmlspecialchars($message);
 
     // Редирект на страницу благодарности
-    header('Location: /boxpodarunok/public/ty.php');
+    header('Location: /boxpodarunok/public/succses.php');
     exit;
 }
 ?>
