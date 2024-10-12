@@ -5,8 +5,8 @@
     <meta http-equiv="Cache-control" content="no-transform" />
     <meta http-equiv="Cache-control" content="no-cache" />
     <meta name="google" content="nopagereadaloud" />
-            <link rel="stylesheet" href="../../assets/css/reset.css">
-        <link rel="stylesheet" href="../../assets/css/privacy-policy.css">
+            <link rel="stylesheet" href="./assets/css/reset.css">
+        <link rel="stylesheet" href="./assets/css/privacy-policy.css">
     <title>Privacy Policy</title>
 </head>
 <body>
@@ -110,6 +110,6 @@
             Якщо у вас виникли питання або пропозиції щодо цієї Політики, будь ласка, зв'яжіться з нами за електронною адресою: <a href="mailto:info@sport.ua">info@sport.ua</a>.
         </p>
     </div>
-    <div class="home-btn"><a class="privacy-policy-link" href="../index.php">Return to Home</a></div>
+    <div class="home-btn"><a class="privacy-policy-link" href="./index.php">Return to Home</a></div>
 </body>
 </html>

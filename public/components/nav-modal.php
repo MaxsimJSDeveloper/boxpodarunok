@@ -1,11 +1,7 @@
-<header class="header">
-    <div class="header-container">
-        <div class="logo">
-       <svg class="logo-svg" aria-label="logo">
-                    <use href="./assets/img/favicon.svg#icon-gift"></use>
-                </svg>
-        </div>
-        <nav class="nav">
+<div class="modal" id="nav-modal">
+    <div class="modal-content">
+        <span class="close-button" id="close-modal">&times;</span>
+        <nav class="modal-nav">
             <ul class="nav-list">
                 <li class="nav-item"><a class="nav-item-link" href="#about">Про нас</a></li>
                 <li class="nav-item"><a class="nav-item-link" href="#advantages">Переваги</a></li>
@@ -14,10 +10,5 @@
                 <li class="nav-item"><a class="nav-item-link" href="#booking">Бронювання</a></li>
             </ul>
         </nav>
-        <div class="burger-menu" id="burger-menu">
-            <svg width="40" height="40" aria-label="icon-linkedin">
-                    <use href="./assets/img/symbol-defs.svg#icon-burger"></use>
-                </svg>
-        </div>
     </div>
-</header>
+</div>

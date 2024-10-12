@@ -3,7 +3,7 @@
         <div class = "about-wrap">
         <h2 class="about-title">Про нас</h2>
         <div class="about-content-wrap">
-        <img class="restaurant" src="../assets/img/restaurant.png" alt="restaurant" width="400">
+        <img class="restaurant" src="./assets/img/restaurant.png" alt="restaurant" width="400">
         <ul class="about-list">
             <li class="about-description">
                 Ми - команда професіоналів, яка спеціалізується на організації незабутніх свят і вечірок. 

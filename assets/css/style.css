@@ -1,3 +1,6 @@
+@import url('./header.css');
+@import url('./modal.css');
+
 .application-form {
   background: #fff;
   padding: 20px;
@@ -130,71 +133,6 @@
 #reject-cookies {
   background-color: #f44336;
   color: white;
-}
-
-.header {
-  background-color: #ff6f61;
-  color: white;
-  padding: 15px 0;
-}
-
-.header-container {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-}
-
-.logo svg {
-  width: 60px;
-}
-
-.nav-list {
-  display: flex;
-  gap: 20px;
-}
-
-.nav-item a {
-  text-decoration: none;
-  color: white;
-  font-size: 18px;
-  transition: color 0.3s ease;
-}
-
-.nav-item a:hover {
-  color: #ffb74d;
-}
-
-@media (max-width: 768px) {
-  .nav-list {
-    gap: 10px;
-  }
-
-  .nav-item a {
-    font-size: 16px;
-  }
-
-  .logo svg {
-    width: 50px;
-  }
-}
-
-@media (max-width: 480px) {
-  .nav-list {
-    flex-wrap: wrap;
-    justify-content: center;
-  }
-
-  .nav-item {
-    margin-bottom: 10px;
-  }
-
-  .nav-item a {
-    font-size: 14px;
-  }
-
-  .logo svg {
-    width: 40px;
-  }
 }
 
 .about {

@@ -20,7 +20,7 @@
 
     <input type="checkbox" name="privacy_policy" id="privacy_policy" class="checkbox" required>
     <label for="privacy_policy" class="checkbox-label">
-        Я погоджуюсь з <a href="./legal/privacy-policy.php">політикою конфіденційності</a>
+        Я погоджуюсь з <a href="./privacy-policy.php">політикою конфіденційності</a>
     </label><br><br>
 
     <input type="submit" value="Надіслати" class="submit-button">
