@@ -18,6 +18,7 @@
     <main>
         <?php include './public/components/about.php' ?>
         <?php include './public/components/advantages.php' ?>
+        <?php include './public/components/contact.php' ?>
         <?php include './public/components/form.php' ?>
     </main>
         <?php include './public/components/nav-modal.php' ?>
