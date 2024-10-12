@@ -6,7 +6,7 @@
     <meta http-equiv="Cache-control" content="no-cache" />
     <meta name="google" content="nopagereadaloud" />
     <meta name="robots" content="noindex">
-    
+        <link rel="icon" type="image/svg+xml" href="./assets/img/favicon.svg" />
     <title>Умови використання</title>
     <meta name="description" content="Ознайомтеся з умовами використання нашого веб-сайту та послуг. Правила, обмеження та відповідальність." />
     <meta name="keywords" content="умови використання, веб-сайт, правила, обмеження, відповідальність" />

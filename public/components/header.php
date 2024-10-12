@@ -2,7 +2,7 @@
     <div class="header-container">
         <div class="logo" aria-label="Логотип компанії">
             <svg class="logo-svg" aria-hidden="true">
-                <use href="./assets/img/favicon.svg#icon-gift"></use>
+                <use href="./assets/img/favicon.svg#icon-balloons"></use>
             </svg>
         </div>
         <nav class="nav" aria-label="Основна навігація">
