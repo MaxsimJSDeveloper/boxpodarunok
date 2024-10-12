@@ -1,0 +1,30 @@
+.event-benefits {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 16px;
+}
+
+.benefit-item {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  padding: 20px;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  max-width: 320px;
+  height: 250px;
+}
+
+.benefit-title {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #333;
+  margin: 0 0 10px;
+}
+
+.benefit-description {
+  color: #666;
+  text-align: center;
+}
