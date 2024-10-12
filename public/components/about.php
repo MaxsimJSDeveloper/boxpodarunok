@@ -1,15 +1,15 @@
-<section id="about" class="section-indentation">
+<section id="about" class="section-indentation" aria-labelledby="about-title">
     <div class="container">
-        <h2 class="title">Про нас</h2>
+        <h2 class="title" id="about-title">Про нас</h2>
         <div class="about-content-wrap">
-            <img class="restaurant" src="./assets/img/restaurant.png" alt="restaurant" width="400">
+            <img class="restaurant" src="./assets/img/restaurant.png" alt="restaurant interior" width="400" loading="lazy">
             <ul class="about-list">
                 <li class="about-description">
                     Ми - команда професіоналів, яка спеціалізується на організації незабутніх свят і вечірок. 
                     Наша мета - зробити ваше свято яскравим, унікальним та безтурботним.
                 </li>
                 <li class="about-description">
-                    З моменту заснування нашої компанії, ми успішно реалізували безліч проектів: від 
+                    З моменту заснування нашої компанії ми успішно реалізували безліч проектів: від 
                     інтимних святкувань до масштабних корпоративів. Кожен захід ми плануємо з 
                     особливою увагою до деталей і врахуванням ваших побажань.
                 </li>

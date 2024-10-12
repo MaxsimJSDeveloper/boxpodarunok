@@ -1,7 +1,8 @@
-<div class="modal" id="nav-modal">
+<div class="modal" id="nav-modal" aria-labelledby="modal-title" aria-hidden="true">
     <div class="modal-content">
-        <span class="close-button" id="close-modal">&times;</span>
-        <nav class="modal-nav">
+        <button class="close-button" id="close-modal" aria-label="Закрити модальне вікно">&times;</button>
+        <nav class="modal-nav" aria-label="Основна навігація">
+            <h2 id="modal-title" class="visually-hidden">Меню навігації</h2>
             <ul class="nav-list">
                 <li class="nav-item"><a class="nav-item-link" href="#about">Про нас</a></li>
                 <li class="nav-item"><a class="nav-item-link" href="#advantages">Переваги</a></li>

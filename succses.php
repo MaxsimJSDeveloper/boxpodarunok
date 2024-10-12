@@ -20,7 +20,7 @@ $description = $succsesObj["desc"];
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="format-detection" content="telephone=no">
     <meta charset="UTF-8">
-	<meta name="robots" content="noindex, nofollow">
+    <meta name="robots" content="noindex, nofollow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/svg+xml" href="/<?= $faviconName ?>" />
     <link href="../<?= $DIR ?>/css/reset.css" rel="stylesheet" type="text/css" media="all" />

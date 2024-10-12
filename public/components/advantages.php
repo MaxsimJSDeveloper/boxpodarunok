@@ -1,6 +1,6 @@
-<section id="advantages" class="section-indentation">
+<section id="advantages" class="section-indentation" aria-labelledby="advantages-title">
     <div class="container">
-<h2 class="title">Переваги</h2>
+        <h2 class="title" id="advantages-title">Переваги</h2>
         <ul class="event-benefits">
             <li class="benefit-item">
                 <h3 class="benefit-title">Корпоративний дух</h3>

@@ -1,22 +1,21 @@
-document.getElementById('burger-menu').addEventListener('click', function () {
-  document.getElementById('nav-modal').style.display = 'block';
+document.getElementById("burger-menu").addEventListener("click", function () {
+  document.getElementById("nav-modal").style.display = "block";
 });
 
-document.getElementById('close-modal').addEventListener('click', function () {
-  document.getElementById('nav-modal').style.display = 'none';
+document.getElementById("close-modal").addEventListener("click", function () {
+  document.getElementById("nav-modal").style.display = "none";
 });
 
-window.addEventListener('click', function (event) {
-  const modal = document.getElementById('nav-modal');
+window.addEventListener("click", function (event) {
+  const modal = document.getElementById("nav-modal");
   if (event.target === modal) {
-    modal.style.display = 'none';
+    modal.style.display = "none";
   }
 });
 
-// Закриваємо модалку при натисканні на пункти меню
-const navItems = document.querySelectorAll('.nav-item-link');
+const navItems = document.querySelectorAll(".nav-item-link");
 navItems.forEach((item) => {
-  item.addEventListener('click', function () {
-    document.getElementById('nav-modal').style.display = 'none';
+  item.addEventListener("click", function () {
+    document.getElementById("nav-modal").style.display = "none";
   });
 });
