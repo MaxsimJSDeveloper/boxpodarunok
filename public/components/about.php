@@ -1,6 +1,6 @@
-<section id="about" class="about section-indentation">
+<section id="about" class="section-indentation">
     <div class="container">
-        <h2 class="about-title">Про нас</h2>
+        <h2 class="title">Про нас</h2>
         <div class="about-content-wrap">
             <img class="restaurant" src="./assets/img/restaurant.png" alt="restaurant" width="400">
             <ul class="about-list">

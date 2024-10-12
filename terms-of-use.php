@@ -5,6 +5,7 @@
     <meta http-equiv="Cache-control" content="no-transform" />
     <meta http-equiv="Cache-control" content="no-cache" />
     <meta name="google" content="nopagereadaloud" />
+    <meta name="robots" content="noindex">
     <title>Terms of Use</title>
 </head>
 <body>

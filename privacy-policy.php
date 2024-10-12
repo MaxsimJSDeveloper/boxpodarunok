@@ -5,7 +5,8 @@
     <meta http-equiv="Cache-control" content="no-transform" />
     <meta http-equiv="Cache-control" content="no-cache" />
     <meta name="google" content="nopagereadaloud" />
-            <link rel="stylesheet" href="./assets/css/reset.css">
+    <meta name="robots" content="noindex">
+            <link rel="stylesheet" href="./assets/css/general.css">
         <link rel="stylesheet" href="./assets/css/privacy-policy.css">
     <title>Privacy Policy</title>
 </head>

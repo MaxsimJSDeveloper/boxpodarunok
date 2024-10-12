@@ -1,6 +1,6 @@
-<section id="contact" class="section-indentation about">
+<section id="contact" class="section-indentation section-color">
     <div class="container">
-        <h2 class="about-title">Контактна інформація</h2>
+        <h2 class="title">Контактна інформація</h2>
         <div class="contact-wrap">
         <div class="contact-item">
             <div class="contact-box">
@@ -28,7 +28,7 @@
                 <a class="contact-link" href="https://www.google.com/maps?q=Харків,+вул.+Льва+Толстого,+7" target="_blank">Перейти</a>
             </div>
         </div>
-        <div><img src="./assets/img/contacts.png" alt="paty" width="520" ></div>
+        <div><img src="./assets/img/contact.png" alt="contacts" width="520" ></div>
     </div>
     </div>
 </section>

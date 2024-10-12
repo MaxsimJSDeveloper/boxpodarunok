@@ -1,6 +1,6 @@
 <section id="advantages" class="section-indentation">
     <div class="container">
-<h2 class="about-title">Переваги</h2>
+<h2 class="title">Переваги</h2>
         <ul class="event-benefits">
             <li class="benefit-item">
                 <h3 class="benefit-title">Корпоративний дух</h3>
