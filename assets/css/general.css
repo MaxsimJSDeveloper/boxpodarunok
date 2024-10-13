@@ -5,18 +5,19 @@
 
 @font-face {
   font-family: "Roboto";
-  src: url("../fonts/Roboto-Regular.ttf") format("truetype");
+  src: url("../fonts/Roboto-Regular.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 
-@font-face {
-  font-family: "Roboto";
-  src: url("../fonts/Roboto-Medium.ttf") format("truetype");
-  font-weight: 500;
-  font-style: normal;
-  font-display: swap;
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  margin: 0;
+  color: #666;
+  background-color: #faebd7;
 }
 
 h1,
@@ -56,22 +57,14 @@ img {
   height: auto;
 }
 
-body {
-  font-family: "Roboto", sans-serif;
-  font-size: 16px;
-  font-weight: 400;
-  margin: 0;
-  background-color: #faebd7;
+button {
+  cursor: pointer;
 }
 
 .container {
   margin: 0 auto;
   padding-right: 20px;
   padding-left: 20px;
-}
-
-button {
-  cursor: pointer;
 }
 
 .visually-hidden {

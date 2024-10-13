@@ -41,7 +41,7 @@
             <div class="input-container">
                 <input type="checkbox" name="privacy_policy" id="privacy_policy" class="checkbox" required>
                 <label for="privacy_policy" class="checkbox-label">
-                    Я погоджуюсь з <a href="./privacy-policy.php">політикою конфіденційності</a>
+                    Я погоджуюсь з <a href="/privacy-policy/">політикою конфіденційності</a>
                 </label>
             </div>
 

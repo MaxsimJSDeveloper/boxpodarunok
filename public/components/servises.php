@@ -31,8 +31,8 @@
         </ul>
       </div>
       <div class="img-wrap">
-        <img class="services-img" src="./assets/img/servises.png" alt="Весільна організація" loading="lazy">
-        <img class="services-img second-img" src="./assets/img/servises-restaurant.png" alt="Корпоратив у ресторані" loading="lazy">
+        <img class="services-img" src="./assets/img/servises.webp" alt="Весільна організація" loading="lazy">
+        <img class="services-img second-img" src="./assets/img/servises-restaurant.webp" alt="Корпоратив у ресторані" loading="lazy">
       </div>
     </div>
   </div>

@@ -39,8 +39,9 @@
 .burger-menu {
   display: flex;
   cursor: pointer;
-  stroke: #fafafa;
   fill: #fafafa;
+  border: none;
+  background-color: inherit;
 }
 
 @media (min-width: 768px) {

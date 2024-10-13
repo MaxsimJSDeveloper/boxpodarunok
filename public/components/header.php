@@ -1,8 +1,8 @@
-<header class="header" role="banner">
+<header class="header">
     <div class="header-container">
-        <div class="logo" aria-label="Логотип компанії">
-            <svg class="logo-svg" aria-hidden="true">
-                <use href="./assets/img/favicon.svg#icon-balloons"></use>
+        <div class="logo" role="img" aria-label="Логотип компанії">
+            <svg class="logo-svg">
+                <use href="./assets/img/symbol-defs.svg#icon-balloons"></use>
             </svg>
         </div>
         <nav class="nav" aria-label="Основна навігація">
@@ -14,10 +14,10 @@
                 <li class="nav-item"><a class="nav-item-link" href="#booking">Бронювання</a></li>
             </ul>
         </nav>
-        <div class="burger-menu" id="burger-menu" aria-label="Меню">
-            <svg width="40" height="40" aria-hidden="true">
+        <button class="burger-menu" id="burger-menu" type="button" aria-label="Відкрити меню">
+            <svg width="40" height="40">
                 <use href="./assets/img/symbol-defs.svg#icon-burger"></use>
             </svg>
-        </div>
+        </button>
     </div>
 </header>

@@ -29,7 +29,7 @@
                 </div>
             </div>
             <div>
-                <img src="./assets/img/contact.png" alt="Зображення контактної інформації" width="520" loading="lazy">
+                <img src="./assets/img/contact.webp" alt="Зображення контактної інформації" width="520" loading="lazy">
             </div>
         </div>
     </div>

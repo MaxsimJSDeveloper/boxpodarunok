@@ -2,7 +2,7 @@
     <div class="container">
         <h2 class="title" id="about-title">Про нас</h2>
         <div class="about-content-wrap">
-            <img class="restaurant" src="./assets/img/restaurant.png" alt="restaurant interior" width="400" loading="lazy">
+            <img class="restaurant" src="./assets/img/restaurant.webp" alt="restaurant interior" width="400" loading="lazy">
             <ul class="about-list">
                 <li class="about-description">
                     Ми - команда професіоналів, яка спеціалізується на організації незабутніх свят і вечірок. 

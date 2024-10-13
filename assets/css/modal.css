@@ -25,6 +25,8 @@
   right: 20px;
   font-size: 30px;
   cursor: pointer;
+  background-color: inherit;
+  border: none;
 }
 
 .modal-nav {
