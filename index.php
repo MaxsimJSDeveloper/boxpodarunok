@@ -28,8 +28,10 @@
     </main>
     <?php include './public/components/nav-modal.php' ?>
     <?php include './public/components/cookie-notice.php' ?>
-    <script src="./assets/js/cookie-notice.js" defer></script>
+
+    <script src="./assets/js/cookieNotice.js" defer></script>
     <script src="./assets/js/modal.js" defer></script>
+    <script src="./assets/js/formHandler.js" defer></script>
 </body>
 
 </html>

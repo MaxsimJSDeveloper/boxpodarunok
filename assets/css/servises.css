@@ -43,7 +43,7 @@
   width: 100%;
   height: 2px;
   border-radius: 18px;
-  background: rgba(251, 251, 251, 0.1);
+  background: rgba(251, 251, 251, 0.8);
   color: #fbfbfb1a;
   content: "";
   position: absolute;
@@ -52,56 +52,11 @@
 }
 
 .services-description-text {
-  font-size: 12px;
+  font-size: 14px;
   line-height: 1.17;
   letter-spacing: -0.02em;
   margin-bottom: 40px;
-}
-
-.services-img {
-  width: 335px;
-  height: 424px;
-  border-radius: 10px;
-}
-
-@media screen and (min-width: 768px) {
-  .services-description {
-    max-width: 800px;
-    padding: 90px 32px;
-    margin-bottom: 32px;
-  }
-
-  .services-description-text {
-    font-size: 13px;
-    line-height: 1.5;
-  }
-
-  .services-list {
-    flex-direction: row;
-    flex-wrap: wrap;
-    gap: 44px;
-  }
-
-  .services-list-item {
-    width: calc((100% - 44px) / 2);
-  }
-
-  .services-img {
-    width: 90%;
-  }
-
-  .img-wrap {
-    max-width: 800px;
-  }
-}
-
-@media screen and (min-width: 1280px) {
-  .services-description {
-    display: flex;
-    padding-left: 50px;
-    padding-right: 50px;
-    margin: 0 auto;
-  }
+  color: #333;
 }
 
 .services-img {
@@ -115,9 +70,60 @@
 }
 
 @media screen and (min-width: 768px) {
+  .services-description {
+    max-width: 800px;
+    padding: 90px 32px;
+    margin-bottom: 32px;
+  }
+
+  .services-description-text {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+
+  .services-list {
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 44px;
+  }
+
+  .services-list-item {
+    width: calc((100% - 44px) / 2);
+  }
+
+  .img-wrap {
+    max-width: 800px;
+  }
+
   .services-img,
   .second-img {
     width: 50%;
     display: block;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .services-description {
+    max-width: 1000px;
+  }
+
+  .img-wrap {
+    max-width: 1000px;
+  }
+
+  .services-description-title {
+    font-size: 28px;
+  }
+
+  .services-description {
+    display: flex;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin: 0 auto;
+  }
+
+  .services-description-text {
+    font-size: 20px;
+    line-height: 1.5;
   }
 }
