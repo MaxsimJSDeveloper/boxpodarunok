@@ -1,13 +1,17 @@
-@import url('./header.css');
-@import url('./about-us.css');
-@import url('./servises.css');
-@import url('./advantages.css');
-@import url('./contact.css');
-@import url('./booking.css');
-@import url('./modal.css');
-@import url('./cookies.css');
-@import url('./cookies.css');
-@import url('./general.css');
+@import url("./header.css");
+
+@import url("./about-us.css");
+@import url("./servises.css");
+@import url("./advantages.css");
+@import url("./contact.css");
+@import url("./booking.css");
+@import url("./footer.css");
+
+@import url("./modal.css");
+@import url("./cookies.css");
+@import url("./cookies.css");
+
+@import url("./general.css");
 
 .title {
   font-size: 36px;

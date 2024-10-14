@@ -26,6 +26,8 @@
         <?php include './public/components/contact.php' ?>
         <?php include './public/components/form.php' ?>
     </main>
+    <?php include './public/components/footer.php' ?>
+
     <?php include './public/components/nav-modal.php' ?>
     <?php include './public/components/cookie-notice.php' ?>
 

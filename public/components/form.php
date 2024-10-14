@@ -35,7 +35,8 @@
             </div>
 
             <div class="input-container">
-                <textarea name="message" class="textarea-field" placeholder="Додаткові запити" aria-label="Додаткові запити"></textarea>
+                <textarea name="message" class="textarea-field" placeholder="Коментар до замовлення"
+            aria-label="Коментар до замовлення"></textarea>
             </div>
 
             <div class="input-container">
