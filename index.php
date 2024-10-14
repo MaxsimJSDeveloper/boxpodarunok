@@ -10,10 +10,10 @@
     <link rel="icon" type="image/svg+xml" href="./assets/img/favicon.webp" />
     <link rel="stylesheet" href="./assets/css/style.css">
 
-    <title>Event and Party Organization</title>
+    <title>Організація подій та свят</title>
 
-    <meta name="description" content="Ми - команда професіоналів, яка спеціалізується на організації незабутніх свят і вечірок. Довірте нам організацію вашого свята, і ви зможете насолоджуватися кожною миттю!" />
-    <meta name="keywords" content="організація свят, вечірки, корпоративи, команда професіоналів, незабутні свята, послуги свят, event management" />
+    <meta name="description" content="Ми – команда, що займається організацією незабутніх свят і заходів. Довірте нам ваше свято, і ви зможете насолоджуватися кожною миттю!" />
+    <meta name="keywords" content="організація свят, вечірки, корпоративи, команда, незабутні події, послуги, управління подіями" />
     <meta name="robots" content="index, follow" />
 </head>
 

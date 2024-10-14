@@ -1,4 +1,4 @@
-<section id="contact" class="section-indentation section-color" aria-labelledby="contact-title">
+<section id="contact" class="section-indentation section-color" aria-labelledby="contact-title"> 
     <div class="container">
         <h2 class="title" id="contact-title">Контактна інформація</h2>
         <div class="contact-wrap">

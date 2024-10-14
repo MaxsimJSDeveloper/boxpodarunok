@@ -1,4 +1,4 @@
-<div class="modal" id="nav-modal" aria-labelledby="modal-title" aria-hidden="true">
+<div class="modal" id="nav-modal" aria-labelledby="modal-title">
     <div class="modal-content">
         <button class="close-button" id="close-modal" aria-label="Закрити модальне вікно">&times;</button>
         <nav class="modal-nav" aria-label="Основна навігація">

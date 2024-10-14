@@ -1,4 +1,4 @@
-<section id="booking" class="section-indentation" aria-labelledby="booking-heading">
+<section id="booking" class="section-indentation" aria-labelledby="booking-heading"> 
     <div class="container">
         <h2 id="booking-heading" class="visually-hidden">Форма бронювання</h2>
         <form class="application-form" id="myForm" aria-labelledby="booking-heading">
@@ -41,7 +41,7 @@
             <div class="input-container">
                 <input type="checkbox" name="privacy_policy" id="privacy_policy" class="checkbox" required>
                 <label for="privacy_policy" class="checkbox-label">
-                    Я погоджуюсь з <a href="/privacy-policy/">політикою конфіденційності</a>
+                    Я погоджуюсь з <a href="/privacy-policy/">правилами конфіденційності</a>
                 </label>
             </div>
 
