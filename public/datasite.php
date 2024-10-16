@@ -1,5 +1,5 @@
 <?php
 $DIR = "assets";
-$faviconName = "favicon.svg"; 
+$faviconName = "favicon.webp"; 
 $domain = "boxpodarunok.com";
 ?>

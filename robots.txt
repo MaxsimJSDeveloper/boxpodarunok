@@ -1,0 +1,2 @@
+Host: https://boxpodarunok.com/
+Sitemap: https://boxpodarunok.com/sitemap.xml

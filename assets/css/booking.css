@@ -67,3 +67,17 @@
     padding: 10px;
   }
 }
+
+#successMessage {
+  display: none;
+  color: #008000;
+  font-weight: bold;
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  background-color: #ebebeb;
+  border: 1px solid #009200;
+  padding: 10px;
+  z-index: 1000;
+  border-radius: 15px;
+}

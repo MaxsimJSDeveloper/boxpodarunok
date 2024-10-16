@@ -14,14 +14,14 @@ $description = $succsesObj["desc"];
 ?>
 
 <head>
-    <meta http-equiv="Cache-control" content="no-transform">
-    <meta http-equiv="Cache-control" content="no-cache">
-    <meta name="google" content="nopagereadaloud" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="format-detection" content="telephone=no">
     <meta charset="UTF-8">
-    <meta name="robots" content="noindex, nofollow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Cache-control" content="no-transform" />
+    <meta http-equiv="Cache-control" content="no-cache" />
+    <meta name="google" content="nopagereadaloud" />
+    <meta name="description" content="Подяка" />
+    <meta name="robots" content="index, follow" />
+    <meta itemprop="name" content="Свічкова майстерня">
     <link rel="icon" type="image/svg+xml" href="/<?= $faviconName ?>" />
     <link href="../<?= $DIR ?>/css/reset.css" rel="stylesheet" type="text/css" media="all" />
     <link href="../<?= $DIR ?>/css/succses.css" rel="stylesheet" type="text/css" media="all" />

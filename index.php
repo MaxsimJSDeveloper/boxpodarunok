@@ -20,6 +20,7 @@
 <body>
     <?php include './public/components/header.php' ?>
     <main>
+        <?php include './public/components/main.php' ?>
         <?php include './public/components/about.php' ?>
         <?php include './public/components/servises.php' ?>
         <?php include './public/components/advantages.php' ?>
