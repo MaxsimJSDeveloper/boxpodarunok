@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="uk">
+<html lang="uk" itemscope itemtype="https://schema.org/WebSite">
 
 <head>
     <meta charset="UTF-8">
@@ -10,14 +10,14 @@
     <link rel="icon" type="image/svg+xml" href="./assets/img/favicon.webp" />
     <link rel="stylesheet" href="./assets/css/style.css">
 
-    <title>Організація подій та свят</title>
+    <title itemprop="name">Організація подій та свят</title>
 
     <meta name="description" content="Ми – команда, що займається організацією незабутніх свят і заходів. Довірте нам ваше свято, і ви зможете насолоджуватися кожною миттю!" />
     <meta name="keywords" content="організація свят, вечірки, корпоративи, команда, незабутні події, послуги, управління подіями" />
     <meta name="robots" content="index, follow" />
 </head>
 
-<body>
+<body itemscope itemtype="https://schema.org/Organization">
     <?php include './public/components/header.php' ?>
     <main>
         <?php include './public/components/main.php' ?>

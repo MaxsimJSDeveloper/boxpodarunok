@@ -10,6 +10,7 @@
 .contact-box {
   display: flex;
   align-items: center;
+  font-size: 16px;
 }
 
 .contact-icon {
@@ -41,5 +42,9 @@
 
   .contact-item {
     width: 40%;
+  }
+
+  .contact-box {
+    font-size: 20px;
   }
 }

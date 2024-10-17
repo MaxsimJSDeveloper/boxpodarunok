@@ -21,10 +21,10 @@ $description = $succsesObj["desc"];
     <meta name="google" content="nopagereadaloud" />
     <meta name="description" content="Подяка" />
     <meta name="robots" content="index, follow" />
-    <meta itemprop="name" content="Свічкова майстерня">
-    <link rel="icon" type="image/svg+xml" href="/<?= $faviconName ?>" />
-    <link href="../<?= $DIR ?>/css/reset.css" rel="stylesheet" type="text/css" media="all" />
-    <link href="../<?= $DIR ?>/css/succses.css" rel="stylesheet" type="text/css" media="all" />
+    <meta itemprop="name" content="Организація свят та вечірок">
+    <link rel="icon" type="image/svg+xml" href="./assets/img/favicon.webp" />
+
+    <link href="./assets/css/succses.css" rel="stylesheet" type="text/css" media="all" />
     <title><?= $domain ?> - <?= $titlePage ?></title>
     <meta name="description" content="<?= $titlePage ?>">
     <?= isset($headParam) ? $headParam : ""; ?>

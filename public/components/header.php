@@ -4,7 +4,7 @@
             <svg class="logo-svg">
                 <use href="./assets/img/symbol-defs.svg#icon-balloons"></use>
             </svg>
-            <a class="logo-txt" href="" itemprop="name">boxpodarunok</a>
+            <a class="logo-txt" href="" itemprop="name">box podarunok</a>
         </div>
         <nav class="nav" aria-label="Основна навігація">
             <ul class="nav-list">

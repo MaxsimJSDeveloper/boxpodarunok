@@ -11,7 +11,7 @@
 
             <div class="input-container">
                 <svg class="icon" aria-hidden="true" focusable="false">
-                    <use href="./assets/img/symbol-defs.svg#icon-map"></use>
+                    <use href="./assets/img/symbol-defs.svg#icon-email"></use>
                 </svg>
                 <input type="email" name="email" class="input-field" placeholder="Email" required aria-label="Email" itemprop="email" />
             </div>
