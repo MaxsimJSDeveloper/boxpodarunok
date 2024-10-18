@@ -49,7 +49,7 @@
             <input type="submit" value="Надіслати" class="submit-button" />
         </form>
 
-        <div id="successMessage">
+        <div id="successMessage" style="display: none;">
             Дані успішно надіслані!
         </div>
     </div>

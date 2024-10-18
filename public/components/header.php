@@ -1,11 +1,11 @@
 <header class="header" itemscope itemtype="https://schema.org/Organization">
     <div class="header-container">
-        <div class="logo" role="img" aria-label="Логотип компанії" itemprop="logo">
-            <svg class="logo-svg">
+        <a class="logo" href="/" role="img" aria-label="Логотип компанії" itemprop="url">
+            <svg class="logo-svg" itemprop="logo">
                 <use href="./assets/img/symbol-defs.svg#icon-balloons"></use>
             </svg>
-            <a class="logo-txt" href="" itemprop="name">box podarunok</a>
-        </div>
+            <span class="logo-txt" itemprop="name">box podarunok</span>
+        </a>
         <nav class="nav" aria-label="Основна навігація">
             <ul class="nav-list">
                 <li class="nav-item"><a class="nav-item-link" href="#about" itemprop="url">Про нас</a></li>

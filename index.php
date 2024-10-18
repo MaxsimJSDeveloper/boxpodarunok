@@ -17,7 +17,7 @@
     <meta name="robots" content="index, follow" />
 </head>
 
-<body itemscope itemtype="https://schema.org/Organization">
+<body>
     <?php include './public/components/header.php' ?>
     <main>
         <?php include './public/components/main.php' ?>

