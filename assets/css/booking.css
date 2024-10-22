@@ -68,6 +68,15 @@
   }
 }
 
+.form-link {
+  color: #ff6f61;
+}
+
+.form-link:hover {
+  color: #e55548;
+  text-decoration: underline;
+}
+
 #successMessage {
   display: none;
   color: #008000;

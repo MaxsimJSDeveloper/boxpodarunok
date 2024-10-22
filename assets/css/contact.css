@@ -23,6 +23,7 @@
 }
 
 .contact-link:hover {
+  color: #e55548;
   text-decoration: underline;
 }
 
