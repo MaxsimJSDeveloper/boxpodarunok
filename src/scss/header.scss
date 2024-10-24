@@ -23,7 +23,7 @@
 }
 
 .logo-txt {
-  font-family: "Just Another Hand", cursive;
+  font-family: 'Just Another Hand', cursive;
   color: #fafafa;
   text-transform: capitalize;
   margin-left: 10px;
@@ -59,7 +59,7 @@
   background-color: inherit;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 800px) {
   .nav {
     display: block;
   }

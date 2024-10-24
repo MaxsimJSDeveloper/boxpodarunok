@@ -1,0 +1,28 @@
+@import url('fonts.scss');
+
+@import url('header.scss');
+
+@import url('main.scss');
+@import url('about-us.scss');
+@import url('servises.scss');
+@import url('advantages.scss');
+@import url('contact.scss');
+@import url('booking.scss');
+@import url('footer.scss');
+
+@import url('modal.scss');
+@import url('cookies.scss');
+@import url('cookies.scss');
+
+@import url('general.scss');
+
+.title {
+  font-size: 36px;
+  margin-bottom: 20px;
+  color: #333;
+  text-align: center;
+}
+
+.section-color {
+  background-color: #f9f9f9;
+}
